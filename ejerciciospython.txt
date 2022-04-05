@@ -9,3 +9,6 @@ potenciometro				https://wokwi.com/projects/327505645030867538
 LDR					https://wokwi.com/projects/327505903884436052	
 temperatura y humedad			https://wokwi.com/projects/327657237140996690	
 servo					https://wokwi.com/projects/327660988963750484	
+oled y DHT22  https://wokwi.com/projects/328107798871147090
+oled y Pot    https://wokwi.com/projects/328021234823463506
+oled y LDR    https://wokwi.com/projects/328025824811811411
